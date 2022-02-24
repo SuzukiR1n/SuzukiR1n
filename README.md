@@ -2,7 +2,7 @@
 
 ## 👋 Hi there
  - You can call me Link&#36man or 欧阳紫菲
- - I'm a student of Optics Engineering from [SYLU](http://www.sylu.edu.cn/)
+ - I'm a student of Optics Engineering from [SYLU](http://www.sylu.edu.cn/) xD
 
 ## 🤔 What I'm doing
  - Learning Optics.
