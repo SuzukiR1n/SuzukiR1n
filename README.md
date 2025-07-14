@@ -14,5 +14,9 @@
 [![iOS 15](https://img.shields.io/badge/iOS%2015-4f4f4f?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/ios/ios-15/)<br>
 
 ## 📱 Devices in use
-[![iPhone 8](https://img.shields.io/badge/iPhone%208-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP804)
+[![iPhone 14 Pro Max](https://img.shields.io/badge/iPhone%2014%20Pro%20Max-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/zh-cn/111846)
+[![iPhone Xs Max](https://img.shields.io/badge/iPhone%20Xs%20Max-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/zh-cn/111880)
+[![iPad Pro 2021 12.9 inch](https://img.shields.io/badge/iPad%20Pro%202021%2012.9%20inch-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/zh-cn/111896)
+[![Apple Watch Series 5](https://img.shields.io/badge/Apple%20Watch%20Series%205-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/zh-cn/118453)
+[![AirPods Pro With Wireless Charging Case](https://img.shields.io/badge/AirPods%20Pro%20With%20Wireless%20Charging%20Case-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/zh-cn/111861)
 [![Redmi K30 5G](https://img.shields.io/badge/Redmi%20K30%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik30-5g)<br>
