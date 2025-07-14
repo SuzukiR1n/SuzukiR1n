@@ -9,9 +9,10 @@
  - Maintaining A CSGO Server and My website.
  
 ## 💻 Working environment
-[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)<br>
-[![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)<br>
-[![iOS 15](https://img.shields.io/badge/iOS%2015-4f4f4f?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/ios/ios-15/)<br>
+[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/windows/)<br>
+[![Fedora 42](https://img.shields.io/badge/Fedora%2042-51A2DA?style=flat-square&logo=fedora&logoColor=ffffff)](https://fedoramagazine.org/announcing-fedora-linux-42/)<br>
+[![RockyLinux 8](https://img.shields.io/badge/RockyLinux%208-10B981?style=flat-square&logo=rockylinux&logoColor=ffffff)](https://rockylinux.org/zh-CN)<br>
+[![iOS 16](https://img.shields.io/badge/iOS%2016-4f4f4f?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/newsroom/2022/09/ios-16-is-available-today/)<br>
 
 ## 📱 Devices in use
 [![iPhone 14 Pro Max](https://img.shields.io/badge/iPhone%2014%20Pro%20Max-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/zh-cn/111846)
