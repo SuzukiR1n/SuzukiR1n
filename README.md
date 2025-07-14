@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mxfly&include_all_commits=true&show_icons=true&hide_title=tru&hide_border=true" />
 
 ## 👋 Hi there
- - You can call me Link&#36man or Rin Suzuki
+ - You can call me  SuzukiR1n
  - I'm a student of Optics Engineering from [SYLU](http://www.sylu.edu.cn/) xD
 
 ## 🤔 What I'm doing
